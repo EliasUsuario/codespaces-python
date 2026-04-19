@@ -21,3 +21,11 @@ Entorno Python 3.12 listo para usar en GitHub Codespaces. Sin instalar nada.
 5. Ejecuta el archivo de ejemplo:
    ```bash
       python main.py
+
+   ## Parte de la colección
+| Lenguaje | Repositorio |
+|---|---|
+| 🐍 Python | [codespaces-python](https://github.com/EliasUsuario/codespaces-python) |
+| ☕ Java | [codespaces-java](https://github.com/EliasUsuario/codespaces-java) |
+| 🟨 JavaScript | [codespaces-javascript](https://github.com/EliasUsuario/codespaces-javascript) |
+| 🎨 HTML & CSS | [codespaces-html-css](https://github.com/EliasUsuario/codespaces-html-css) |
