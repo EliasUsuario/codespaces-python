@@ -36,3 +36,10 @@ Entorno Python 3.12 listo para usar en GitHub Codespaces. Sin instalar nada.
 | ☕ Java | [codespaces-java](https://github.com/EliasUsuario/codespaces-java) |
 | 🟨 JavaScript | [codespaces-javascript](https://github.com/EliasUsuario/codespaces-javascript) |
 | 🎨 HTML & CSS | [codespaces-html-css](https://github.com/EliasUsuario/codespaces-html-css) |
+
+---
+¿Prefieres tenerlos todos en un solo lugar? Aquí tienes el repositorio general con todos los lenguajes:
+
+| 🌐 Todos | [codespaces_configurado](https://github.com/EliasUsuario/Codespaces_Extensiones)
+
+---
