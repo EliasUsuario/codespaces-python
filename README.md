@@ -22,6 +22,13 @@ Entorno Python 3.12 listo para usar en GitHub Codespaces. Sin instalar nada.
    ```bash
       python main.py
 
+## Estructura
+/
+├── .devcontainer/
+│     └── devcontainer.json
+├── main.py
+└── README.md
+
    ## Parte de la colección
 | Lenguaje | Repositorio |
 |---|---|
